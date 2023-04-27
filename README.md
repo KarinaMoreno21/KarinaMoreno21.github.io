@@ -3,9 +3,9 @@
 
 ## ÍNDICE
 * [Intro](https://github.com/KarinaMoreno21/KarinaMoreno21.github.io/edit/main/README.md#intro-)
-* [¿Qué construí?](#-¿Qué)
-* [Objetivos del proyecto](#-Objetivos)
-* [Link al Demo](#-Link)
+* [¿Qué construí?](https://github.com/KarinaMoreno21/KarinaMoreno21.github.io/blob/main/README.md#qu%C3%A9-constru%C3%AD-%EF%B8%8F)
+* [Objetivos del proyecto](https://github.com/KarinaMoreno21/KarinaMoreno21.github.io/blob/main/README.md#objetivo-del-proyecto-)
+* [Link al Demo](https://github.com/KarinaMoreno21/KarinaMoreno21.github.io/blob/main/README.md#link-al-demo-)
 
 ***
 
@@ -28,5 +28,6 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3, así como 
 
 ## ¡Link al Demo! 🔗
 Visualiza mi proyecto terminado aquí: 👉 [Clonación de google](https://karinamoreno21.github.io/) 👈
+
 ![googleClone](https://user-images.githubusercontent.com/101960943/234747066-14dd6b55-5761-4db1-9a0f-330d2af37d2d.png)
 
