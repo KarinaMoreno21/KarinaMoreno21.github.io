@@ -3,9 +3,9 @@
 
 ## ÍNDICE
 * [Intro](#-intro)
-* [¿Qué construí?](#-¿Qué construí?)
-* [Objetivos del proyecto](#-Objetivos del proyecto)
-* [Link al Demo](#-Link al Demo)
+* [¿Qué construí?](#-¿Qué)
+* [Objetivos del proyecto](#-Objetivos)
+* [Link al Demo](#-Link)
 
 ***
 
