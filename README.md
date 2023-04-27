@@ -2,7 +2,7 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [Intro](#-intro)
+* [Intro](https://github.com/KarinaMoreno21/KarinaMoreno21.github.io/edit/main/README.md#intro-)
 * [¿Qué construí?](#-¿Qué)
 * [Objetivos del proyecto](#-Objetivos)
 * [Link al Demo](#-Link)
